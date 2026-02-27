@@ -18,5 +18,5 @@ Dalam proyek ini, sintaks SQL digunakan untuk membuat tabel baru bernama `tabel_
 ## Dashboard
 Link: [Performance Analytics Dashboard - Kimia Farma](https://lookerstudio.google.com/s/gD4LH-9Qg18)
 
-![dashboard](Dashboard/Dashboard-Kimia Farma.png)
+![dashboard](Dashboard/Dashboard-Kimia_Farma.jpg)
 
