@@ -16,4 +16,7 @@ Datasets yang digunakan mencakup informasi transaksi `kf_final_transaction`, dat
 Dalam proyek ini, sintaks SQL digunakan untuk membuat tabel baru bernama `tabel_analysis` di dalam basis data kimia_farma. Tabel baru ini diisi dengan data yang dipilih dari tabel yang sudah ada (`kf_final_transaction`, `kf_kantor_cabang`, dan `kf_product`).
 
 ## Dashboard
-Link: [Performance Analytics Dashboard - Kimia Farma]([https://lookerstudio.google.com/reportin](https://lookerstudio.google.com/s/gD4LH-9Qg18)
+Link: [Performance Analytics Dashboard - Kimia Farma](https://lookerstudio.google.com/s/gD4LH-9Qg18)
+
+![dashboard](Dashboard/Dashboard-Kimia Farma.png)
+
