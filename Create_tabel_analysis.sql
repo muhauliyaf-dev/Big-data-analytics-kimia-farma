@@ -34,6 +34,7 @@ SELECT
         ELSE 0.3
     END) AS nett_profit,
     ft.rating AS rating_transaksi
+    
 FROM `kimia_farma. kf_final_transaction` ft
 JOIN `kimia_farma.kf_kantor_cabang` kc ON ft.branch_id = kc.branch_id
 JOIN `kimia_farma.kf_product` p ON ft.product_id = p.product_id;
